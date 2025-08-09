@@ -1,3 +1,7 @@
+---
+title: Privacy Policy - Douville Home Inspections
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Douville Home Inspections app (hereby referred to as "Application") for mobile devices that was created by Douville & Co. Home Inspections LTD. (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
